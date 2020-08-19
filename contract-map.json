@@ -1,4 +1,11 @@
 { 
+  "0xeefb1d06d28286216e5d7068f9ef21e01f4dd793": {
+    "name": "FastEpic",
+    "logo": "FEPIC.png",
+    "erc20": true,
+    "symbol": "FEPIC",
+    "decimals": 8
+  },
   "0x49d716DFe60b37379010A75329ae09428f17118d": {
     "name": "PoolTogether Dai",
     "logo": "pldai.svg",
